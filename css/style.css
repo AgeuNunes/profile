@@ -66,9 +66,10 @@ body {
 #ola {
     position: relative;
     margin-top: -660px;
-    margin-left: 450px;
-    font-size: 48px;
     width: 850px;
+    margin-left: 450px;
+    text-align: justify;
+    font-size: 48px;
 }
 
 #ola strong {
