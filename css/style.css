@@ -5,8 +5,8 @@ body {
 }
 
 #barraLateral {
-    background: #00009C;
-    color: #00009C;
+    background: #315184;
+    color: #315184;
     position: fixed;
     top: 0;
     left: 0;
@@ -73,7 +73,7 @@ body {
 }
 
 #ola strong {
-    color: #00009C;
+    color: #315184;
     font-size: 64px;
 }
 
@@ -96,8 +96,8 @@ p {
 }
 
 #btnDownloadCv {
-    background: #00009C;
-    border: 3px solid #00009C;
+    background: #315184;
+    border: 3px solid #315184;
     color: #fff;
     align-items: center;
     justify-content: center;
@@ -112,7 +112,7 @@ p {
 
 #btnDownloadCv:hover {
     background: #fff;
-    color: #00009C;
+    color: #315184;
 }
 
 .imgRedeSocial {
