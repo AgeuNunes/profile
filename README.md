@@ -9,4 +9,4 @@ Nesta página web apresento meu próprio perfil com um breve resumo sobre mimm e
 
 Acesse-a clicando <a href="https://ageununes.github.io/profile/" rel="noreferrer noopener nofollow" target="blank">aqui</a>
 
-[Acesse-a clicando](https://ageununes.github.io/profile/){:target: "_blank"}
+[Acesse-a clicando](https://ageununes.github.io/profile/){:target="_blank"}
