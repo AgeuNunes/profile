@@ -2,8 +2,12 @@
 
 Projeto desenvolvido como treinamento pessoal de algumas ferramentas para criação de uma página web.
 
-Aqui apresento meu próprio perfil informando um breve resumo sobre mimm e meus contatos.
+Nesta página web apresento meu próprio perfil com um breve resumo sobre mimm e meus principais contatos.
+
+Layout:
+
+<img style="width: 600px" src="https://github.com/AgeuNunes/profile/blob/main/layout/Profile.png">
 
 &nbsp;
 
-<img style="width: 600px" src="https://github.com/AgeuNunes/profile/blob/main/layout/Profile.png">
+Acesse-a clicando <a href="https://ageununes.github.io/profile/">aqui</a>
